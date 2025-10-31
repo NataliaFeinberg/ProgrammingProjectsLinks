@@ -6,3 +6,7 @@ Penguin Massacure Gaim - https://github.com/Charlie-Quin/penguinMassacureGaim
   - to run the game you can clone and run using Intellij or other Java IDE.  (Game was made with LIBGDX)
     
 
+goose game - https://github.com/WilsonTalentCenter/arcadeproject-NataliaFeinberg
+-ASWD to move
+-space to shoot
+-:3
